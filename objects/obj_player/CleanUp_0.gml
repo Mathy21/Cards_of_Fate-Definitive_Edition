@@ -1,0 +1,1 @@
+ds_list_destroy(cards_list);
