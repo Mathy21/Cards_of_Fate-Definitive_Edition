@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_cards_database",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_cards_database",
+  "parent":{
+    "name":"Database",
+    "path":"folders/Scripts/Database.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

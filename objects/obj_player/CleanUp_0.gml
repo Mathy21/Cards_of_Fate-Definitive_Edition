@@ -1,1 +1,1 @@
-ds_list_destroy(cards_list);
+ds_stack_destroy(cards_in_hand);
