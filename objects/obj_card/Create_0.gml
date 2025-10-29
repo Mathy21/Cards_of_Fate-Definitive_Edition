@@ -4,3 +4,4 @@ card_type = noone;
 card_role = noone;
 card_image = noone;
 
+sprite_index = card_image;
